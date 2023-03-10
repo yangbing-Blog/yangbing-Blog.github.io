@@ -15,6 +15,56 @@
     </entry>
     
     
+    
+    <entry>
+      <title>夜晚的男人</title>
+      <link href="/2023/03/08/%E5%A4%9C%E6%99%9A/"/>
+      <url>/2023/03/08/%E5%A4%9C%E6%99%9A/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴样式</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-07-24 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases">2.6.6 -&gt; 3.0</a></p></div></div><div class='timeline-item-content'><ol><li>如果有 <code>hexo-lazyload-image</code> 插件，需要删除并重新安装最新版本，设置 <code>lazyload.isSPA: true</code>。</li><li>2.x 版本的 css 和 js 不适用于 3.x 版本，如果使用了 <code>use_cdn: true</code> 则需要删除。</li><li>2.x 版本的 fancybox 标签在 3.x 版本中被重命名为 gallery 。</li><li>2.x 版本的置顶 <code>top: true</code> 改为了 <code>pin: true</code>，并且同样适用于 <code>layout: page</code> 的页面。</li><li>如果使用了 <code>hexo-offline</code> 插件，建议卸载，3.0 版本默认开启了 pjax 服务。</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-05-15 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.6">2.6.3 -&gt; 2.6.6</a></p></div></div><div class='timeline-item-content'><p>不需要额外处理。</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-04-20 <a href="https://github.com/volantis-x/hexo-theme-volantis/releases/tag/2.6.3">2.6.2 -&gt; 2.6.3</a></p></div></div><div class='timeline-item-content'><ol><li>全局搜索 <code>seotitle</code> 并替换为 <code>seo_title</code>。</li><li>group 组件的索引规则有变，使用 group 组件的文章内，<code>group: group_name</code> 对应的组件名必须是 <code>group_name</code>。</li><li>group 组件的列表名优先显示文章的 <code>short_title</code> 其次是 <code>title</code>。</li></ol></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 悬疑小说 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随想 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的补番记录</title>
+      <link href="/2023/03/08/%E9%82%A3%E4%BA%9B%E5%B9%B4%E7%9C%8B%E8%BF%87%E3%81%AE%E5%8A%A8%E7%94%BB/"/>
+      <url>/2023/03/08/%E9%82%A3%E4%BA%9B%E5%B9%B4%E7%9C%8B%E8%BF%87%E3%81%AE%E5%8A%A8%E7%94%BB/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我的补番记录"><a href="#我的补番记录" class="headerlink" title="我的补番记录"></a>我的补番记录</h2><p>最爱的几部作品：<br>        番剧：街角魔族，素晴，cl,小南极，孤独摇滚<br>        电影：朝花夕誓<br>2000<br>    ①<br>    ②<br>    ③<br>    ④<br>2001<br>    ①<br>    ②<br>    ③<br>    ④网球王子<br>2002<br>    ①<br>    ②<br>    ③<br>    ④<br>2003<br>    ①<br>    ②<br>    ③初音岛<br>    ④<br>2004<br>    ①<br>    ②<br>    ③<br>    ④<br>2005<br>    ①Air<br>    ②<br>    ③<br>    ④<br>2006<br>    ①<br>    ②<br>    ③<br>    ④<br>2007<br>    ①<br>    ②天元突破<br>    ③日在校园<br>    ④CLANNAD,守护甜心<br>2008<br>    ①真实之泪<br>    ②to love<br>    ③<br>    ④魔法禁书目录<br>2009<br>    ①<br>    ②轻音少女<br>    ③<br>    ④某科学的超电磁炮，<br>2010<br>    ①<br>    ②天使的心跳<br>    ③<br>    ④我的妹妹哪有这么可爱，缘之空<br>2011<br>    ①魔法少女小圆<br>    ②未闻花名，电波女与青春男<br>    ③<br>    ④<br>2012<br>    ①<br>    ②fate/zero<br>    ③<br>    ④樱花庄的宠物女孩<br>2013<br>    ①LoveLive<br>    ②进击的巨人，约会大作战<br>    ③<br>    ④<br>2014<br>    ①<br>    ②一周的朋友<br>    ③元气囝仔<br>    ④四月是你的谎言，fate/stay night<br>2015<br>    ①<br>    ②<br>    ③Overlord，心灵想要大声呼喊<br>    ④<br>2016<br>    ①素晴<br>    ②从零开始的异世界生活<br>    ③New Game<br>    ④<br>2017<br>    ①小林家的龙女仆，One Room，小魔女学园<br>    ②与僧侣交合的色欲之夜，月色真美<br>    ③来自深渊，欢迎来到实力至上主义的教室<br>    ④此花亭奇谭，奇诺之旅，无论何时我们的恋情都是10厘米，<br>2018<br>    ①比宇宙更远的地方，爱吃拉面的小泉同学，摇曳露营，Citrus,Slow Start,POP TEAM EPIC,魔卡少女樱，三颗星彩色冒险，25岁的女高中生，龙王的工作，擅长捉弄人的高木同学,紫罗兰永恒花园，恶魔人<br>    ②魔法少女 俺，赛马娘，ALICE OR ALICE，多田君不恋爱，Comic Girls,MEGALOBOX，宅男腐女恋爱真难<br>    ③轻羽飞扬，后街女孩，春原庄的管理员小姐，昴宿七星，杀戮的天使，工作细胞，少女歌剧，碧蓝之海，<br>    ④关于我转生变成史莱姆这档事，青春猪头不会梦到兔女郎学姐，佐贺偶像是传奇，狐狸之声，我家女仆有够烦，寄宿学校的朱丽叶，来自多彩世界的明天，SSSS.GRIDMAN，强风吹拂<br>2019<br>    ①不吉波普不笑，笑容的代价，笨拙之极的上野，多罗罗，天使降临到我身边，约定的梦幻岛，辉夜大小姐想让我告白，<br>    ②川柳少女，一个人的oo小日子，满脑都是○○的我没办法谈恋爱，异世界四重奏，皿三昧<br>    ③街角魔族，某科学的一方通行<br>    ④慎重勇者，喜欢本大爷的竟然就你一个，超人高中生们即便在异世界也能从容生存，碧蓝航线，我不是说了能力要平均值吗，刺客守则<br>2020<br>    ①恋爱小行星，overflow,怕痛的我，把防御力点满就对了，星掠者，织田肉桂信长，异种族风俗娘评鉴指南<br>    ②隐瞒之事，公主连结<br>    ③<br>    ④魔女之旅，总之就是很可爱，无能力者娜娜，这是你与我的最后战场或是开创世界的圣战，安达与岛村，成神之日，<br>2021<br>    ①天地创造设计部，转生成蜘蛛又怎样，只有我能进入的隐藏迷宫，工作细胞black，堀与宫村，怪物事变，无职转生，碧蓝航线微速前进，奇蛋物语，回复术士的重启人生,弱势角色友崎君,好比是最终迷宫前的少年到新手村生活一般的故事<br>    ②SSSS.电光机王，龙先生想要买个家，圣女魔力无所不能<br>    ③<br>    ④<br>2022<br>    ①里亚德录大地，更衣人偶坠入爱河，天才王子的赤字国家重生术，与变成了异世界美少女的大叔一起冒险<br>    ②不会拿捏距离的阿波连同学，派对咖孔明，相合之物，爱在征服世界后，间谍过家家，夏日重现<br>    ③继母的女儿是我的前女友,惑星公主蜥蜴骑士,Lycoris Recoil，契约之吻，异世界舅舅，彻夜之歌<br>    ④孤独摇滚<br>2023<br>    ①尼尔，中国奇谭，天使大人废材，别当欧尼酱了，生而为狗我很幸福，久保同学，转生王女与天才千金的魔法革命，为了养老金去异世界存八万金，异世界休闲农家，异世界流浪美食家<br>    ②</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 动画 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 娱乐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
